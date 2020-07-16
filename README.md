@@ -2,4 +2,4 @@ I'm a software engineer who is passionate about building open source projects an
 
 For more information about me, check out [moallemi.me](https://moallemi.me).
 
-<img src="https://github-readme-stats.vercel.app/api?username=moallemi&show_icons=true">
+![Reza Moallemi's github stats](https://github-readme-stats.vercel.app/api?username=moallemi&hide_rank=true&show_icons=true&hide=["contribs","commits"])
