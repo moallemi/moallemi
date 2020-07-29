@@ -1,6 +1,6 @@
 <img src="https://github.com/moallemi/moallemi/blob/master/resources/header.png?raw=true">
 
-<img align="right" src="https://github.com/moallemi/moallemi/blob/temp/resources/right.png?raw=true" width=450px/>
+<img align="right" src="https://github.com/moallemi/moallemi/blob/master/resources/right.png?raw=true" width=450px/>
 
 ### Hi, I'm Reza 👋
 
